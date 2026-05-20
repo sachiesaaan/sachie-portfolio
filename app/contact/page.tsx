@@ -7,15 +7,15 @@ export default function ContactPage() {
         <h2>Inquiry</h2>
         <div>
           <p>
-            仕事のご依頼・お問い合わせは下記メールアドレス、もしくは各SNSのDMよりお願いいたします。
-            初回ご連絡時に、以下の項目をお知らせいただけるとスムーズです。
+            仕事のご依頼・お問い合わせは下記メールアドレス、もしくはInstagramのDMよりお願いいたします📬
           </p>
+          <span></span>
           <a
             className="mail"
-            href="mailto:hello@sachie.example"
+            href="mailto:sachiesaaan@gmail.com"
             style={{ color: "var(--music)" }}
           >
-            hello@sachie.example
+            sachiesaaan@gmail.com 🌐
           </a>
         </div>
 
@@ -28,13 +28,7 @@ export default function ContactPage() {
             <span>ご予算とスケジュール(納期・公開日など)</span>
           </li>
           <li>
-            <span>参考音源・参考映像・参考デザインがあればURL</span>
-          </li>
-          <li>
-            <span>用途(配信 / 商用 / 個人 / イベント等)</span>
-          </li>
-          <li>
-            <span>クレジット表記の可否</span>
+            <span>参考資料(音源・映像・デザイン等)</span>
           </li>
         </ul>
 
@@ -43,11 +37,11 @@ export default function ContactPage() {
           <a
             className="glink"
             style={{ color: "var(--music)" }}
-            href="https://instagram.com/"
+            href="https://instagram.com/sachie.now"
             target="_blank"
             rel="noreferrer noopener"
           >
-            Instagram <span className="handle">@sachie.works</span>
+            Instagram <span className="handle">@sachie.now</span>
           </a>
           <a
             className="glink"
@@ -70,11 +64,12 @@ export default function ContactPage() {
           <a
             className="glink"
             style={{ color: "var(--movie)" }}
-            href="https://x.com/"
+            href="https://x.com/orangethief__"
             target="_blank"
             rel="noreferrer noopener"
           >
-            X (Twitter) <span className="handle">@sachie_</span>
+            X (Twitter) <span className="handle">@orangethief__
+            </span>
           </a>
           <a
             className="glink"
@@ -90,11 +85,11 @@ export default function ContactPage() {
         <h2>Availability</h2>
         <div>
           <p>
-            現在、楽曲制作・Mix &amp; Mastering の新規案件を受付中です。
-            劇伴・VJ・デザインは案件規模により相談の上で。
+            現在、新規案件を受付中です。
+            ぜひ気軽にご相談くださいませ！
           </p>
           <p style={{ color: "var(--sub)", fontSize: 12 }}>
-            返信に2〜3営業日いただく場合があります。
+            ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
           </p>
         </div>
       </div>

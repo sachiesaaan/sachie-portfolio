@@ -19,7 +19,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SACHIE — Music / DJ / VJ / Movie / Design",
+  title: "SACHIE",
   description:
     "SACHIE のポートフォリオサイト。楽曲制作 / DJ / VJ / 映像 / デザインの仕事をまとめています。",
 };
